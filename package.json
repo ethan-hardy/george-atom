@@ -1,7 +1,7 @@
 {
   "name": "george-atom",
   "main": "./lib/george-atom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrapper for UW SE212 george tool",
   "keywords": [],
   "repository": "https://github.com/ethan-hardy/george-atom",
