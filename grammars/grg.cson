@@ -13,7 +13,6 @@
     'name': 'variable.language.source.grg'
     'comment': '#q, etc'
   }
-
   {
     'begin': '%'
     'end': '\\n'
