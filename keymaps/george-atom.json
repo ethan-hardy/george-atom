@@ -1,5 +1,11 @@
 {
-  "atom-workspace": {
+  ".platform-win32 atom-workspace atom-text-editor:not([mini])": {
     "ctrl-shift-g": "george-atom:ask-george"
+  },
+  ".platform-linux atom-workspace atom-text-editor:not([mini])": {
+    "ctrl-shift-g": "george-atom:ask-george"
+  },
+  ".platform-darwin atom-workspace atom-text-editor:not([mini])": {
+    "cmd-shift-g": "george-atom:ask-george"
   }
 }

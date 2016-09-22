@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle george-atom",
-        "command": "george-atom:toggle"
+        "label": "Ask George",
+        "command": "george-atom:ask-george"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "george-atom",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "george-atom:toggle"
+              "label": "Ask George",
+              "command": "george-atom:ask-george"
             }
           ]
         }

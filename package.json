@@ -2,17 +2,14 @@
   "name": "george-atom",
   "main": "./lib/george-atom",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "george-atom:ask-george"
-  },
-  "repository": "https://github.com/atom/george-atom",
+  "description": "Wrapper for UW SE212 george tool",
+  "keywords": [],
+  "repository": "https://github.com/ethan-hardy/george-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "request": "^2.75.0"
   }
 }
