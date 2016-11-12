@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.0"
   }
 }

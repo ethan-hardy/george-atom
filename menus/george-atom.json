@@ -4,6 +4,10 @@
       {
         "label": "Ask George",
         "command": "george-atom:ask-george"
+      },
+      {
+        "label": "Create Files",
+        "command": "george-atom:create-files"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Ask George",
               "command": "george-atom:ask-george"
+            },
+            {
+              "label": "Create Files",
+              "command": "george-atom:create-files"
             }
           ]
         }
