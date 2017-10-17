@@ -1,7 +1,7 @@
 {
   "name": "george-atom-v2",
   "main": "./lib/george-atom",
-  "version": "0.0.0",
+  "version": "1.2.0",
   "description": "Checks correctness of george files for SE212 course",
   "keywords": [],
   "repository": "https://github.com/sajjadzamani/george-atom",
