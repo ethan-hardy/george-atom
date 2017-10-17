@@ -1,5 +1,13 @@
 # george-atom package
 
+Fixed issues with george plugin related to [@ethan-hardy](https://github.com/ethan-hardy) branch   
+Currently waiting on pull request to be merged.
+## Installation
+
+Until my pull request is merged use george-atom-v2
+
+apm install george-atom-v2
+
 ## Usage
 `Cmd-Shift-G` (`Ctrl-Shift-G` for windows/linux users) to ask george, using the entire contents of your current text editor as input.
 
